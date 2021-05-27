@@ -1,0 +1,9 @@
+ERROR:root:In row: 7	invalid member ID given: 223226
+ERROR:root:In row: 35	invalid member ID given: 1744
+ERROR:root:In row: 35	invalid member ID given: 295
+ERROR:root:In row: 45	invalid member ID given: 1744
+ERROR:root:In row: 45	invalid member ID given: 295
+ERROR:root:In row: 56	invalid member ID given: 1744
+ERROR:root:In row: 56	invalid member ID given: 295
+ERROR:root:In row: 59	invalid member ID given: 1744
+ERROR:root:In row: 59	invalid member ID given: 295
